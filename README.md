@@ -5,3 +5,5 @@ Afegit text al README...
 sedou- jhsdgcbhrfejwfbkevafkjcdukhjahcbkhuegah,vcehdvcjh FORK
 edito lhoussaine
 Actualizació
+
+Modificació feta des del fork de GhannyTech
